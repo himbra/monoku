@@ -371,7 +371,8 @@ table.specifications tr:nth-child(1) {
 }
 
 table.specifications tr:nth-child(1) td {
-    color: #fff361;
+    color: #0e1122;
+    font-size: 17px;
 }
 table.specifications {
     width: 100%;
@@ -379,7 +380,9 @@ table.specifications {
 
 table.specifications td {
     padding: 5px 10px;
-    color: #fff;
+    color: #001e4e;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 
@@ -387,11 +390,11 @@ table.specifications td {
         
 .kkk-white {
         font-size: 36px;
-    margin-bottom: 35px;
-    color: #45ff88;
-    text-align: center !important;
-    width: 100%;
-  margin-top: 28px;
+        margin-bottom: 35px;
+        color: #313062;
+        text-align: center !important;
+        width: 100%;
+        margin-top: 28px;
 } 
         
         .specificationsxsuj {
