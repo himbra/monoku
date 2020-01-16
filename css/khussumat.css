@@ -204,10 +204,9 @@ section.form {
 }        
 
 .pckg img {
-    max-width: 80%;
     margin: 0 auto;
     display: block;
-  height: 320px;
+    height: 320px;
 }
 
 .pckg .item-price {
@@ -418,7 +417,7 @@ table.specifications td {
 }  
         
 tr.align-h td {
-    padding: 15px 0px;
+    padding: 25px 15px;
 }        
         
 /* -------------------------------- 
