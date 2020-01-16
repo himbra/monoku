@@ -1,6 +1,7 @@
         
 html {
     scroll-behavior: smooth;
+    display: none;
 }
         
         body, *, input, textarea, option, select {
@@ -18,7 +19,7 @@ html {
         
         
 .preloader {
-  position: fixed;
+  position: fixed; 
   height: 100vh;
   left: 0;
   top: 0;
