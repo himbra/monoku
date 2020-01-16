@@ -954,3 +954,10 @@ display: inline-block!important;
     50% {transform: scale(0.5); -ms-transform: scale(0.5); -webkit-transform: scale(0.5); opacity:0.5;}
     100% {transform: scale(1); -ms-transform: scale(1); -webkit-transform: scale(1); opacity:1;}
 }
+
+.video-container {
+  max-width: 720px;
+  display: block;
+  margin: 0 auto 30px;
+  border: 5px solid #fff;
+}
