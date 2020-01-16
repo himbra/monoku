@@ -961,3 +961,20 @@ display: inline-block!important;
   margin: 0 auto 30px;
   border: 5px solid #fff;
 }
+
+div#components {
+        display: block;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin: 45px 0 25px;
+    background: aliceblue;
+}
+
+div#components h2 {
+    font-size: 25px;
+    margin: 15px auto;
+    font-weight: bold;
+    font-family: inherit;
+    color: navy;
+}
