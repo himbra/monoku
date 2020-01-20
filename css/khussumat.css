@@ -980,3 +980,20 @@ div#components h2 {
     font-family: inherit;
     color: navy;
 }
+
+a.order_now {
+    background: #379c0d;
+    color: #fff;
+    padding: 15px;
+    border-top: 2px solid #4cbd1d;
+    text-decoration: none;
+    display: block;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    bottom: 0px;
+    left: 0;
+    z-index: 66;
+    font-size: 24px;
+    line-height: 100%;
+}
