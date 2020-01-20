@@ -261,6 +261,8 @@ a.close_modal {
 
         a.close_modal.messenger {
         	background: #0084ff;
+        	color: #fff;
+        	border-color: #0084ff;
         }
 
 h2.order_details {
