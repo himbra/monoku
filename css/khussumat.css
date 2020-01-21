@@ -356,6 +356,12 @@ h2.hero_subtitle {
     margin-top: 22px;
     font-size: 24px;
 }
+
+.desc {
+    color: #bbb;
+    margin-top: 22px;
+    font-size: 24px;
+}
         
 table.specifications {
     width: 100%;
