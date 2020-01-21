@@ -1012,3 +1012,13 @@ a.order_now {
 	color: #333;
 }
 
+span.item-price_in {
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 800;
+    color: #4c4c4c;
+    text-decoration: line-through;
+    vertical-align: super;
+    display: inline-block;
+    margin-left: 10px;
+}
