@@ -1008,6 +1008,10 @@ a.order_now {
 	margin-bottom: 25px;
 }
 
+.mt-25 {
+	margin-top: 25px;
+}
+
 .black {
 	color: #333;
 }
