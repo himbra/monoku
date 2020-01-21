@@ -356,12 +356,6 @@ h2.hero_subtitle {
     margin-top: 22px;
     font-size: 24px;
 }
-
-.desc.black {
-    color: #444;
-    margin-top: 22px;
-    font-size: 24px;
-}
         
 table.specifications {
     width: 100%;
@@ -1003,3 +997,14 @@ a.order_now {
     font-size: 24px;
     line-height: 100%;
 }
+
+.desc {
+    color: #444;
+    margin-top: 22px;
+    font-size: 24px;
+}
+
+.black {
+	color: #333;
+}
+
