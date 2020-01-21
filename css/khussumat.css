@@ -1004,6 +1004,10 @@ a.order_now {
     font-size: 24px;
 }
 
+.mb-25 {
+	margin-bottom: 25px;
+}
+
 .black {
 	color: #333;
 }
