@@ -357,8 +357,8 @@ h2.hero_subtitle {
     font-size: 24px;
 }
 
-.desc {
-    color: #bbb;
+.desc.black {
+    color: #444;
     margin-top: 22px;
     font-size: 24px;
 }
