@@ -3,18 +3,18 @@ html {
     scroll-behavior: smooth; 
 }
         
-        body, *, input, textarea, option, select {
-          font-family: 'dubai', sans-serif;
-          font-size: 18px;
-        }
-        
-        h1, h2, h3, h4, h5 ,h6 {
-         font-family: 'geeza-pro-bold', sans-serif;
-        }
+body, *, input, textarea, option, select {
+  font-family: 'dubai', sans-serif;
+  font-size: 18px;
+}
 
-        .blackbg {
-          background: #000;
-        }
+h1, h2, h3, h4, h5 ,h6 {
+ font-family: 'geeza-pro-bold', sans-serif;
+}
+
+.blackbg {
+  background: #000;
+}
         
         
 .preloader {
