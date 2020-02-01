@@ -169,13 +169,13 @@ div.bullets {
     color: forestgreen;	
 }	
 
-.ttu {	
-  padding: 20px;	
-  height: auto;	
-  font-size: 24px;	
-  font-weight: 600;	
-  background: mediumaquamarine;	
-  border: 0px;	
+.ttu {
+  padding: 20px;
+  height: auto;
+  font-size: 24px;
+  font-weight: 600;
+  background: #16b953;
+  border: 0px;
 } 	
 
 .ttu:hover, .ttu:focus {	
