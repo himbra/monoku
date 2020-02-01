@@ -346,9 +346,10 @@ h2.hero_subtitle {
 }
 
 .inside-flex-mfck h2 {
-    color: #09b18b;
-    font-size: 36px;
+    color: #009688;
+    font-size: 1.7em;
     margin-bottom: 0px;
+    font-weight: bold;
 }
 
 .inside-flex-mfck .desc {
