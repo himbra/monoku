@@ -283,15 +283,16 @@ td.qty-table, td.price-table {
     margin: 15px 0px 35px;
 
 }        
-footer p {
-      font-size: 13px;
+footer p, footer a {
+      font-size: 22px;
+      direction: rtl;
 }
 
 footer {
-  background: #666;
-  color: #fff;
+  background: #05264a;
+  color: #ffffff;
   padding: 45px 0;
-        }
+  }
 section.form {
     padding: 40px 15px;
 }
@@ -1035,3 +1036,8 @@ span.item-price_in {
 
 
 section#blackbg .col-md-4 {padding: 25px;}
+
+
+footer a {
+    color: #00ffdc;
+}
