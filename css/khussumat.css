@@ -970,11 +970,11 @@ display: inline-block!important;
 
 div#components {
         display: block;
-    text-align: center;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    margin: 45px 0 25px;
-    background: aliceblue;
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        margin: 45px 0 25px;
+        background: #f3f3f3;
 }
 
 div#components h2 {
