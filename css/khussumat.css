@@ -27,8 +27,8 @@ body, *, input, textarea, option, select {
 }	
 .preloader.done {
   overflow: hidden;
-  /* opacity: 0; */
-  /* display: none; */
+  opacity: 0;
+  display: none;
 }	
 
 .loader {
