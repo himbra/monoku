@@ -27,8 +27,8 @@ body, *, input, textarea, option, select {
 }	
 .preloader.done {
   overflow: hidden;
-  /* opacity: 0; */
-  /* display: none; */
+  opacity: 0;
+  display: none;
 }	
 
 .loader {	
@@ -1082,8 +1082,4 @@ section#testimonials p {
     color: #3F51B5;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-}
-
-h1.text-default {
-    font-size: 2em;
 }
