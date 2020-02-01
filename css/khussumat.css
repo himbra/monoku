@@ -1083,3 +1083,7 @@ section#testimonials p {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
+h1.text-default {
+    font-size: 2em;
+}
