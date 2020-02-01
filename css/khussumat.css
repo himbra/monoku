@@ -13,16 +13,16 @@ body, *, input, textarea, option, select {
 }	
 
 
-.preloader {
-    position: fixed;
-    height: 100vh;
-    left: 0;
-    top: 0;
-    width: 100%;
-    background: #ffe9c8;
-    transition: 1s all;
-    visibility: visible;
-    z-index: 999;
+.preloader {	
+  position: fixed; 	
+  height: 100vh;	
+  left: 0;	
+  top: 0;	
+  width: 100%;	
+  background: #000;	
+  z-index: 2;	
+  transition: 1s all;	
+  visibility: visible;	
 }	
 .preloader.done {	
   overflow: hidden;	
@@ -965,14 +965,21 @@ display: inline-block!important;
   border: 5px solid #fff;	
 }	
 
-div#components {	
-        display: block;	
-        text-align: center;	
-        padding-top: 25px;	
-        padding-bottom: 25px;	
-        margin: 45px 0 25px;	
-        background: #f3f3f3;	
+div#components {
+        display: block;
+        text-align: center;
+        padding-top: 25px;
+        padding-bottom: 25px;
+        margin: 45px 0 25px;
 }	
+
+div#components img { 
+  margin-bottom: 10px;
+}
+
+div#components p {
+  margin-bottom: 25px;
+}
 
 div#components h2 {	
     font-size: 25px;	
