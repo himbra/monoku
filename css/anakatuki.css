@@ -54,13 +54,13 @@ body, *, input, textarea, option, select {
 }	
 
 
-        header {	
-  display: flex;	
-  justify-content: center;	
-  align-content: center;	
-  padding: 25px 25px 35px 25px;	
-  background: #001030;	
-  margin-bottom: 0px;	
+        header {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  padding: 25px 25px 35px 25px;
+  background: #f1f1f1;
+  margin-bottom: 0px;
 }	
 header .logo {	
   max-height: 55px;	
