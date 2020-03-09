@@ -62,7 +62,7 @@ a, a:hover, a:focus {
   display: flex;
   justify-content: center;
   align-content: center;
-  padding: 25px 25px 35px 25px;
+  padding: 30px 15px 45px 15px;
   background-image: linear-gradient(180deg, #E0DFFF 0%, #FFFFFF 50%);
   margin-bottom: 0px;
 }	
