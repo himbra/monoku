@@ -1202,6 +1202,7 @@ div#hero_message {
 div#hero_message h2 {
     font-size: 22px;
     color: #FF5722;
+    font-family: dubai;
 }
 
 .fst_message {
@@ -1242,7 +1243,54 @@ div#hero_message h2 {
 	  -webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none;
 	}
 
-	@-webkit-keyframes pulse {to {box-shadow: 0 0 0 15px rgb(38, 211, 103);}}
-	@-moz-keyframes pulse {to {box-shadow: 0 0 0 15px rgb(38, 211, 103);}}
-	@-ms-keyframes pulse {to {box-shadow: 0 0 0 15px rgb(38, 211, 103);}}
+	@-webkit-keyframes pulse {to {box-shadow: 0 0 0 15px rgba(0, 255, 25, 0.3);}}
+	@-moz-keyframes pulse {to {box-shadow: 0 0 0 15px rgba(0, 255, 25, 0.3);}}
+	@-ms-keyframes pulse {to {box-shadow: 0 0 0 15px rgba(0, 255, 25, 0.3);}}
 	@keyframes pulse {to {box-shadow: 0 0 0 15px rgba(0, 255, 25, 0.3);}}
+
+div#pex {
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	width: 100%;
+	margin-top: 30px;
+	font-family: dubai;
+}
+
+div#pex .col-fx {
+text-align: center;
+margin: 0px 10px;
+position: relative;
+}
+
+div#pex .col-fx h4 {
+font-size: 1em;
+font-weight: bold;
+}
+
+div#pex .col-fx h4:before {
+content: '';
+display: block;
+position: absolute;
+top: 16px;
+width: 100%;
+box-shadow: 0px 0px 100px 15px #ccff009e;
+}
+
+@media screen and (min-width: 768px) {
+div#pex .col-fx h4 {
+  font-size: 1.3em;
+}
+}
+
+@media screen and (min-width: 1024px) {
+div#pex .col-fx h4 {
+  font-size: 1.8em;
+}
+}
+
+section#second_page * {
+    font-family: dubai;
+}
+
+
