@@ -194,8 +194,8 @@ div.bullets {
 	background: green;  	
 }	
 
-        section.packaging {	
-    padding: 45px 0;	
+        section.packaging {
+    padding: 5px 0;
 }	
 
 section.form {
@@ -408,13 +408,14 @@ table.specifications td {
 
 
 
-.kkk-white {	
-        font-size: 36px;	
-        margin-bottom: 35px;	
-        color: #313062;	
-        text-align: center !important;	
-        width: 100%;	
-        margin-top: 28px;	
+.kkk-white {
+        font-size: 36px;
+        margin-bottom: 35px;
+        color: #313062;
+        text-align: center !important;
+        width: 100%;
+        margin-top: 28px;
+        margin-top: 15px !important;
 } 	
 
         .specificationsxsuj {	
@@ -986,7 +987,7 @@ div#components {
         display: block;
         text-align: center;
         padding-top: 25px;
-        padding-bottom: 25px;
+        padding-bottom: 5px;
         margin: 45px 0 25px;
 }	
 
