@@ -1,9 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Harmattan&display=swap');
+
 html {
     scroll-behavior: smooth; 
 }	
 
 body, *, input, textarea, option, select {
-  font-family: 'dubai', sans-serif;
+  font-family: 'Harmattan', sans-serif;
   font-size: inherit;
 }	
 
