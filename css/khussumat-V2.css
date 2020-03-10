@@ -1172,8 +1172,7 @@ a.whatsapp_order {
     background: #26d367;
     color: #104200;
     font-size: 22px;
-    box-shadow: 0px 0px 15px #0000008a;
-    border: 2px solid #ffffff94;
+    box-shadow: 0px 0px 15px #ffffff8a;
     border-radius: 7px;
     padding: 5px 15px;
     font-family: 'dubai';
@@ -1229,7 +1228,7 @@ div#hero_message h2 {
   /* Pulse effect */
   .pulse-button {
 	  position: relative;
-	  box-shadow: 0 0 0 0 rgba(232, 76, 61, 0.7);	  
+	  box-shadow: 0 0 0 0 rgba(232, 76, 61, 0.7);
 	  cursor: pointer;
 	  -webkit-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
 	  -moz-animation: pulse 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
@@ -1241,7 +1240,7 @@ div#hero_message h2 {
 	  -webkit-animation: none;-moz-animation: none;-ms-animation: none;animation: none;
 	}
 
-	@-webkit-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
-	@-moz-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
-	@-ms-keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
-	@keyframes pulse {to {box-shadow: 0 0 0 45px rgba(232, 76, 61, 0);}}
+	@-webkit-keyframes pulse {to {box-shadow: 0 0 0 15px rgb(38, 211, 103);}}
+	@-moz-keyframes pulse {to {box-shadow: 0 0 0 15px rgb(38, 211, 103);}}
+	@-ms-keyframes pulse {to {box-shadow: 0 0 0 15px rgb(38, 211, 103);}}
+	@keyframes pulse {to {box-shadow: 0 0 0 15px rgba(0, 255, 25, 0.3);}}
