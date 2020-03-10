@@ -433,11 +433,8 @@ table.specifications td {
         margin: 0 auto;	
     }	
 }        	
- section#blackbg {	
-    padding-top: 25px;	
-    padding-bottom: 25px;	
-    margin-bottom: 25px;	
-    border-bottom: 1px dashed#d2d2d2;	
+ section#blackbg {
+    padding-top: 25px;
 }  	
 
 tr.align-h td {	
