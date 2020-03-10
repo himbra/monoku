@@ -68,6 +68,7 @@ a, a:hover, a:focus {
 }	
 header .logo {
   max-height: 78px;
+  margin-top: -30px;
 }	
 
         img {	
