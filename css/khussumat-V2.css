@@ -1173,9 +1173,10 @@ a.whatsapp_order {
     display: none;
     position: fixed;
     top: 15px;
-    left: calc(50% - 100px);
     margin-top: 12px;
-    max-width: 320px;
+    width: 320px;
+    transform: translateX(-50%);
+    left: 50%;
     text-align: center;
     background: #26d367;
     color: #104200;
