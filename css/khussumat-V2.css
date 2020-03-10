@@ -1104,6 +1104,9 @@ section#testimonials p {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+section.free_shipping {
+    margin: 35px 15px 0px;
+}
 
 span.offer-num {
     display: flex;
@@ -1145,9 +1148,10 @@ div#callToAction .icon img {max-height: 76px;margin: 0px 15px;}
 
 div#callToAction .headling {
     font-size: 1.6em;
-    margin: 0px 15px;
+    margin: 12px 15px;
     font-weight: bold;
-    color: #004085;
+    color: #F44336;
+    font-family: dubai;
 }
 
 footer .links {
