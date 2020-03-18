@@ -293,21 +293,13 @@ font-style: italic;
   margin: 15px 0px 35px;	
 
 }        	
-footer a {	
-    font-size: 22px;	
-    direction: rtl;	
+footer a {
+    font-size: 22px;
+    direction: rtl;
 }	
 
-footer {
-background: #fbfbfb; 
-border-top: 1px solid #eee;
-color: #343a40;
-padding: 45px 0;
-
-}
-footer * {
-font-family: dubai;
-}
+footer {background: #004085;border-top: 1px solid #eee;color: #ffffff;padding: 45px 0;}
+footer * {/* font-family: dubai; */}
 section.form {	
   padding: 40px 15px;	
 }	
@@ -1062,7 +1054,7 @@ section#blackbg .col-md-4 {padding: 25px;}
 
 
 footer a {
-  color: #004085;
+  color: #ffffff;
 }
 
 section#testimonials {
@@ -1155,7 +1147,7 @@ footer .links {
 }
 
 footer .links a {
-  font-size: 20px;
+  font-size: 16px;
   margin: 0 10px;
 }
 
